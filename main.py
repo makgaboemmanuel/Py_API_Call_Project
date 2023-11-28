@@ -17,6 +17,6 @@ if __name__ == '__main__':
 
 
 print("What is your name")
-# this is my app_id: 6511cb1983204b8aa2375600ab77950b
+# this is my app_id: 
 
 
